@@ -26,15 +26,12 @@ I've been aspiring coding since my school time and here is a time i am on way to
 * ✉️  You can contact me at [anjali.bahukhandi2005@gmail.com](mailto:anjali.bahukhandi2005@gmail.com)
 * 🧠  I'm learning a new framwork
 * 🤝  I'm open to collaborating on interstinag projects
-* ⚡  i'm a spiderman...just a secret bw you and me.oky!! :)
+* ⚡  i'm a wonder woman...just a secret bw you and me.oky!! :)
 
 <a href="https://www.github.com/3188ab" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/3188ab?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 
 ### Skills
-
-
-![c457d6b7-43f1-4982-a578-116fc1f764b0](https://github.com/anjalibahukhandi3/3188ab/assets/107753127/9c3c5bee-d50a-4a69-9e83-23f1a7ab2ca8)
 
 
 
