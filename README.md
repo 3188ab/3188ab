@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on kotlin.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is anjali
 ==============================================================================================================================
 
-web developer and designer
+Android Developer 
 --------------------------
 
 I've been aspiring coding since my school time and here is a time i am on way to become coder I am starting my journey with html with a backend knowledge too.
